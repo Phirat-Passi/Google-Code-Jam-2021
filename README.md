@@ -17,5 +17,6 @@ The following tables house my round-wise, problem-wise scores.
 | 5     | Cheating Detection     | 31/31     |
 
 Final Score: **90 / 101** <br>
-Final Rank: **839** <br> (Global)
+Final Rank: **839** <br> 
+
 
