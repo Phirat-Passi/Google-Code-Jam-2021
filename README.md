@@ -6,7 +6,7 @@ Software used: Python 3.7, C++ 17.
 
 The following tables house my round-wise, problem-wise scores.
 
-## Round 0: Qualification
+## Qualification Round
 
 | **#** | **Problem**            | **Score** |
 |:-----:|:----------------------:|:---------:|
@@ -18,5 +18,4 @@ The following tables house my round-wise, problem-wise scores.
 
 Final Score: **90 / 101** <br>
 Final Rank: **839** <br> 
-
 
