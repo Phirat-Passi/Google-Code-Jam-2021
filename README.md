@@ -2,7 +2,7 @@
 
 This repository contains my solutions to [Google Code Jam 2021](https://codingcompetitions.withgoogle.com/codejam/archive/2021) problems.
 
-Software used: Python 3.7, C++ 17.
+Software used: Python 3.7, C++ 17, Java 11.
 
 The following tables house my round-wise, problem-wise scores.
 
