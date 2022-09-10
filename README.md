@@ -18,4 +18,3 @@ The following tables house my round-wise, problem-wise scores.
 
 Final Score: **90 / 101** <br>
 Final Rank: **839** <br> 
-
