@@ -18,3 +18,5 @@ The following tables house my round-wise, problem-wise scores.
 
 Final Score: **90 / 101** <br>
 Final Rank: **839** <br> 
+
+![Google Code Jam 2021 Scorecard](https://user-images.githubusercontent.com/67471222/189503771-697c1430-c63a-4384-9d25-ee3be070f5e2.jpg)
